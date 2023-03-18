@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Corre Pruebas",
+      "setup": "export DOTNET_CLI_HOME=/tmp",
+      "run": "dotnet test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
